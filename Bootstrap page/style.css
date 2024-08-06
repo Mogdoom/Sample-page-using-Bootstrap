@@ -1,0 +1,59 @@
+.sec1 ul li a:hover{
+    color:red!important;
+}
+.sec1 ul li a{
+margin-left:150px!important;
+}
+.sec2{
+    background: grey;
+    height: 100vh;
+}
+
+.sec2 img{
+    margin-right: 50px;
+    width: 280px;
+    height: 280px;
+    margin-top: 180px;
+    margin-left: 130px;
+}
+
+.sec2 .content{
+    margin-top: 130px;
+    margin-left: 90px;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+.sec2 .content h4{
+    color: aqua;
+}
+
+.sec2 .content p{
+    color: bisque;
+}
+
+.sec2 .content ul li{
+    color: bisque;
+}
+
+.sec2 .form{
+    margin-top: 110px;
+    
+}
+.sec2 .form input{
+    width: 290px;
+    height: 45px;
+    padding: 15px;
+    border-radius: 25px;
+}
+.sec2 .form .special input{
+    width: 290px;
+    height: 150px;
+}
+.sec2 .form input[type="submit"] {
+    background-color:burlywood
+}
+.sec2 .form input[type="submit"]:hover {
+    background-color: lightblue;  /* Change the background color on hover */
+}
+
